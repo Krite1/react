@@ -1,0 +1,5 @@
+{
+  "name": "Gemini React Blog",
+  "description": "A modern, responsive blog application built with React, TypeScript, and Tailwind CSS. It features dynamic content loading (simulated from CSV), trending topics, and related post suggestions. As a Single Page Application (SPA), SEO is handled through dynamic title updates and semantic HTML, though server-side rendering would be required for full optimization.",
+  "requestFramePermissions": []
+}
